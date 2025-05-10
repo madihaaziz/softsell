@@ -36,3 +36,5 @@ A responsive single-page marketing website for a fictional software resale start
 - Development: 6 hours
 - Testing and refinement: 1 hour
 - Total: ~9 hours
+
+https://softsell-virid.vercel.app/
