@@ -32,14 +32,7 @@ A responsive single-page marketing website for a fictional software resale start
 
 ## Time Spent
 
-- Planning: 1 hour
+- Planning: 2 hours
 - Development: 6 hours
 - Testing and refinement: 1 hour
-- Total: ~8 hours
-
-## How to Run
-
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Run development server: `npm run dev`
-4. Build for production: `npm run build`
+- Total: ~9 hours
